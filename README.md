@@ -1,80 +1,79 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Hitesh Kalwani 👋</h1>
 
-# My name is [Hitesh Kalwani](https://github.com/hiteshkalwani)
-
-👨‍💻 Passionate Developer | Tech Lead | Tech Enthusiast | Tech Evangelist <br>
-🚀 Building scalable apps, architecting clean systems, and leading with code <br>
-🌐 Love exploring cloud, backend, and AI-driven solutions <br>
-🎤 Sharing knowledge, driving innovation, and mentoring teams <br>
-📍 On a mission to turn ideas into impactful products <br>
-
-<p align="left">
-  <a href="https://github.com/MacroPower/MacroPower">
-    <img src="https://komarev.com/ghpvc/?username=hiteshkalwani" alt="page views" />
-  </a>
-  <a href="https://stackoverflow.com/users/4611516/hitesh-kalwani">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4611516?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://github.com/hiteshkalwani?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/hiteshkalwani?style=flat&logo=github">
-  </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=640&lines=Senior+Software+Engineer+%2F+Tech+Lead+%40+Brivo;Backend+%26+Infrastructure+%7C+Python+%C2%B7+Django+%C2%B7+AWS;Making+AI-assisted+engineering+production-safe;10%2B+years+shipping+systems+at+scale" alt="Typing intro" />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/hitesh-kalwani-a547a068/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/4611516/hitesh-kalwani"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hiteshkalwani&color=blue&style=flat" alt="Profile views" />
+  <a href="https://github.com/hiteshkalwani?tab=followers"><img src="https://img.shields.io/github/followers/hiteshkalwani?style=flat&logo=github&label=followers" alt="GitHub followers" /></a>
+  <a href="https://stackoverflow.com/users/4611516/hitesh-kalwani"><img src="https://img.shields.io/stackexchange/stackoverflow/r/4611516?color=orange&label=reputation&logo=stackoverflow" alt="Stack Overflow reputation" /></a>
+</p>
+
 ---
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C600%2B%20hrs-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29%20million%2B%20lines%20of%20code-blue)
+### 🧑‍💻 About me
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hiteshkalwani&theme=github-dark-dimmed&custom_title=HiteshKalwani%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+Tech Lead and backend-focused full-stack engineer based in **Tokyo 🇯🇵**, with **10+ years** building and operating production systems in Python, Django, TypeScript and AWS. I own large projects end to end — from early design discussions through delivery, incident response and long-term reliability.
 
-## Languages
+- 🏢 **Senior Software Engineer / Tech Lead** at **Brivo** (formerly Eagle Eye Networks)
+- 🤖 Focused on making **AI-assisted engineering production-safe** — internal AI copilots, ChatOps automation, review & testing practices for LLM-generated code
+- 🌱 Mentored **15+ engineers** and set team standards for testing, CI/CD and code review
+- 💬 Ask me about **distributed systems, event-driven architecture, data pipelines, RAG / MCP / AI agents**
+- 🗣️ English · Hindi · Gujarati · Sindhi · 日本語 (elementary)
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![C#](https://img.shields.io/badge/C%23-000?logo=c-sharp&logoColor=white)
+### 🚀 Highlights
 
-## Technologies
+| | |
+|---|---|
+| 📡 **Real-time comms platform** | Distributed system connecting **2M+ users** to network speakers — async Python, WebSockets, WebRTC, Redis, Kubernetes |
+| ⚙️ **High-throughput scheduler** | Custom scheduler on Apache Pulsar + Node.js/TypeScript processing **1,000+ jobs/sec** |
+| 🤖 **ChatOps AI assistant** | LLM function-calling for deployments, logs & diagnostics — **60% less** manual DevOps effort |
+| 🧠 **AI engineering copilot** | FAISS + LangChain + MCP hybrid retrieval — **+35%** answer accuracy, **~50% faster** onboarding |
+| 🛰️ **IoT + video platform** | Integrated **100,000+ sensors** with live camera streams |
+| 📊 **Analytics platform** | Near real-time pipeline ingesting **4M+ events/day** (Kinesis, Lambda, Step Functions, Redshift) |
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-amazonaws&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-![Wordpress](https://img.shields.io/badge/-Wordpress-000?&logo=Wordpress)
-![Django](https://img.shields.io/badge/-Django-000?&logo=Django&logoColor=F90)
-![Jest](https://img.shields.io/badge/Jest-000?logo=jest&logoColor=C21325)
-![Android](https://img.shields.io/badge/Android-000?logo=android&logoColor=3DDC84)
-![Git](https://img.shields.io/badge/git-000?logo=git&logoColor=F05032)
-![Firebase](https://img.shields.io/badge/Firebase-000?logo=firebase&logoColor=FFCA28)
+### 🏆 Achievements
 
-![GitHub Org's stars](https://img.shields.io/github/stars/EENCloud)
+- 🥇 **1st Place** — DeepLearning.AI Global Builder Night Tokyo (Google for Startups, Shibuya)
+- 🥈 **2nd Place** — Persistent Technothon (real-time traffic-signal recognition)
+- 🧩 **Honourable Mention**, ACM-ICPC Asia Region · Google Code Jam 2015 Round 2 qualifier
 
-## 🔍  Where to find me
+### 🛠️ Tech stack
 
-[<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/4611516/hitesh-kalwani)
-&nbsp;
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=LinkedIn&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/hitesh-kalwani-a547a068/)
+**Languages & backend**
 
-<!--
-**hiteshkalwani/hiteshkalwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,django,fastapi,flask,graphql&perline=10" alt="Languages and backend" />
 
-Here are some ideas to get you started:
+**Cloud, infra & data**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,linux,postgres,redis,dynamodb,prometheus,grafana&perline=10" alt="Cloud and data" />
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=10" alt="AI and ML" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" height="48" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" height="48" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" height="48" />
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" height="48" />
+
+### 📈 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=hiteshkalwani&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hiteshkalwani&theme=github_dark" alt="Top languages by commit" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hiteshkalwani/hiteshkalwani/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/hiteshkalwani/hiteshkalwani/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  </picture>
+</p>
