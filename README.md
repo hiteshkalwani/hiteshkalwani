@@ -21,10 +21,10 @@
 
 ### 🧑‍💻 About me
 
-Tech Lead and backend-focused full-stack engineer based in **Tokyo 🇯🇵**, with **10+ years** building and operating production systems in Python, Django, TypeScript and AWS. I own large projects end to end — from early design discussions through delivery, incident response and long-term reliability.
+Tech Lead and backend-focused full-stack engineer based in **Tokyo 🇯🇵**, with **10+ years** building and operating production systems in Python, Django, TypeScript and AWS. I own large projects end to end, from early design discussions through delivery, incident response and long-term reliability.
 
 - 🏢 **Senior Software Engineer / Tech Lead** at **Brivo** (formerly Eagle Eye Networks)
-- 🤖 Focused on making **AI-assisted engineering production-safe** — internal AI copilots, ChatOps automation, review & testing practices for LLM-generated code
+- 🤖 Focused on making **AI-assisted engineering production-safe**, internal AI copilots, ChatOps automation, review & testing practices for LLM-generated code
 - 🌱 Mentored **15+ engineers** and set team standards for testing, CI/CD and code review
 - 💬 Ask me about **distributed systems, event-driven architecture, data pipelines, RAG / MCP / AI agents**
 - 🗣️ English · Hindi · Gujarati · Sindhi · 日本語 (elementary)
@@ -33,10 +33,10 @@ Tech Lead and backend-focused full-stack engineer based in **Tokyo 🇯🇵**, w
 
 | | |
 |---|---|
-| 📡 **Real-time comms platform** | Distributed system connecting **2M+ users** to network speakers — async Python, WebSockets, WebRTC, Redis, Kubernetes |
+| 📡 **Real-time comms platform** | Distributed system connecting **2M+ users** to network speakers, async Python, WebSockets, WebRTC, Redis, Kubernetes |
 | ⚙️ **High-throughput scheduler** | Custom scheduler on Apache Pulsar + Node.js/TypeScript processing **1,000+ jobs/sec** |
-| 🤖 **ChatOps AI assistant** | LLM function-calling for deployments, logs & diagnostics — **60% less** manual DevOps effort |
-| 🧠 **AI engineering copilot** | FAISS + LangChain + MCP hybrid retrieval — **+35%** answer accuracy, **~50% faster** onboarding |
+| 🤖 **ChatOps AI assistant** | LLM function-calling for deployments, logs & diagnostics, **60% less** manual DevOps effort |
+| 🧠 **AI engineering copilot** | FAISS + LangChain + MCP hybrid retrieval, **+35%** answer accuracy, **~50% faster** onboarding |
 | 🛰️ **IoT + video platform** | Integrated **100,000+ sensors** with live camera streams |
 | 📊 **Analytics platform** | Near real-time pipeline ingesting **4M+ events/day** (Kinesis, Lambda, Step Functions, Redshift) |
 
